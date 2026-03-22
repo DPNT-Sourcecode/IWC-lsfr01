@@ -7,4 +7,4 @@ class HelloSolution:
         Return a string which says Hello, World!.
         """
         
-        return f"Hello, World!"
+        return f"Hello, {friend_name}!"
